@@ -1,0 +1,8 @@
+Attribute,Key Word,Data Type,inputs,RangeL,RangeU
+DataValue,name,str,1,0,0
+DataValue,age,int,1,0,150
+DataValue,temperature,int,1,97,105
+DataValue,blood pressure,int,1,0,200
+DataValue,sugar level,int,2,0,200
+LongText,symptoms,str,*,0,0
+LongText,medicine,str,*,0,0
